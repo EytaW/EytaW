@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning C++ through several course and some teaching opportunities. I'm also learning JAVA and PYTHON via project based approach instead of the traditional course.
 
-📫 How to reach me ...
+📫 How to reach me: Please send me email!
 
 <!---
 EytaW/EytaW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
