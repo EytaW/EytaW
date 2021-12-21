@@ -3,7 +3,7 @@
 
 👀 I’m interested in getting a formal education in Computer Science. My initial background was Chemical Engineering working in renewables sector. I created A LOT of block flow diagrams, Signal Sensors and feedback loops. I'd be happy to help your project if you are dealing process control that requires some programming skills.
 
-🌱 I’m currently learning C++ through several course and some teaching opportunities. I'm also learning PYTHON via project based approach instead of the traditional course.
+🌱 I’m currently learning C++ through several course and some teaching opportunities. I'm also learning JAVA and PYTHON via project based approach instead of the traditional course.
 
 📫 How to reach me ...
 
